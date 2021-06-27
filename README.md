@@ -1,7 +1,11 @@
 # Shared Presentations
 Any presentation put together for YouTube or other content.
 
+# Links to content
 
+## benefits and pitfalls of SPA and MPA
+- [YouTube content](https://youtu.be/BzRfOJpG1gk)
+- [slidedeck](./blob/master/benefits-and-pitfalls-of-spa-mpa.pdf)
 
 
 # LICENSE
